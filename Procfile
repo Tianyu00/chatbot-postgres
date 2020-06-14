@@ -1,1 +1,1 @@
-web: gunicorn chatbot-postgres.wsgi --log-file -
+web: gunicorn gettingstarted.wsgi --log-file -
